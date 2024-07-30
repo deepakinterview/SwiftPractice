@@ -39,8 +39,10 @@ struct ContentView: View {
             }
             .background(Color.yellow)
             Button("Click me!"){
-                
             }
+            Button("Thumbs Up!"){
+            }
+            .background(Color.green)
             
             .background(Color.red)
         }
