@@ -35,9 +35,9 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking")
-            
-          
-            
+            Button("Subcribe Now "){
+            }
+            .background(Color.yellow)
             Button("Click me!"){
                 
             }
