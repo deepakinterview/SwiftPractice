@@ -15,6 +15,8 @@
 		3BD67CA62C59822200977AB6 /* SwiftfulSourceControlUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD67CA52C59822200977AB6 /* SwiftfulSourceControlUITests.swift */; };
 		3BD67CA82C59822200977AB6 /* SwiftfulSourceControlUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD67CA72C59822200977AB6 /* SwiftfulSourceControlUITestsLaunchTests.swift */; };
 		3BD67CB52C59939500977AB6 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD67CB42C59939500977AB6 /* HomeView.swift */; };
+		3BD67CB72C5ACA9E00977AB6 /* Testing1 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD67CB62C5ACA9E00977AB6 /* Testing1 .swift */; };
+		3BD67CB92C5ACB4700977AB6 /* Testing2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD67CB82C5ACB4700977AB6 /* Testing2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +48,8 @@
 		3BD67CA52C59822200977AB6 /* SwiftfulSourceControlUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlUITests.swift; sourceTree = "<group>"; };
 		3BD67CA72C59822200977AB6 /* SwiftfulSourceControlUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		3BD67CB42C59939500977AB6 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		3BD67CB62C5ACA9E00977AB6 /* Testing1 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Testing1 .swift"; sourceTree = "<group>"; };
+		3BD67CB82C5ACB4700977AB6 /* Testing2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testing2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,7 @@
 				3BD67C8C2C59822100977AB6 /* ContentView.swift */,
 				3BD67C8E2C59822200977AB6 /* Assets.xcassets */,
 				3BD67C902C59822200977AB6 /* Preview Content */,
+				3BD67CB62C5ACA9E00977AB6 /* Testing1 .swift */,
 			);
 			path = SwiftfulSourceControl;
 			sourceTree = "<group>";
@@ -109,6 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				3BD67C912C59822200977AB6 /* Preview Assets.xcassets */,
+				3BD67CB82C5ACB4700977AB6 /* Testing2.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -260,7 +266,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BD67CB92C5ACB4700977AB6 /* Testing2.swift in Sources */,
 				3BD67CB52C59939500977AB6 /* HomeView.swift in Sources */,
+				3BD67CB72C5ACA9E00977AB6 /* Testing1 .swift in Sources */,
 				3BD67C8D2C59822100977AB6 /* ContentView.swift in Sources */,
 				3BD67C8B2C59822100977AB6 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
