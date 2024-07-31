@@ -13,6 +13,12 @@
  Stash = Save Changes for later
  Push =  Send local commits to remote repo
  Pull = Fetch remote commits to local repo
+ Rebase = Moving One Branch  On Top Of Another Branch
+ Cherry Picking = Duplicating (Copying) one commit from one branch to another
+ Pull Request = Request to Merge branch
+ 
+ 
+ 
  
  NEW FEATURE:
  [Feature] Description of the feature
